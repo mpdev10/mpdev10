@@ -9,11 +9,7 @@ development, and hands-on DIY projects.
 
 ## Current job
 
-I work as a software developer at NetworkedAssets. I primarily use **Kotlin** for backend
-development (and sometimes other languages from JVM ecosystem), along with **Spring/Spring Boot** as a framework.
-Occasionally, I also work on frontend tasks using
-**Vue**, but my main focus is on backend work. Additionally, sometimes I handle ops tasks, where I utilize
-**Ansible** and **Pulumi** with **Typescript**, along with AWS as the cloud platform.
+I work as a senior java developer at Tooploox.
 
 ## Personal stuff highlights
 
