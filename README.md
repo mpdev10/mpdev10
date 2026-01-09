@@ -15,23 +15,19 @@ I work as a senior java developer at Tooploox.
 
 ### [Bento](https://bentoapp.cloud)
 
-Currently, In my free time this is a project I am focused on.
+Bento was a personal side project I previously worked on, focused on building a full-stack nutrition and meal-planning
+application. While it is no longer under active development, it served as a practical exploration of scalable backend
+architecture and cross-platform mobile development.
 
-Main features of the app:
+Key features included:
 
-- Macronutrients and kcal tracking
-- Meal composing and scheduling
-- Recipe storage and generation
+- Macronutrients and kcal tracking  
+- Meal composing and scheduling  
+- Recipe storage and generation  
 
-Backend consists of a few microservices I've developed using **Kotlin** along with **Ktor**. For data storage, I used
-**PostgreSQL** databases. Everything is wrapped up in a **Kubernetes** cluster (deployed to the cloud) which exposes a
-**GraphQL** endpoint. Additionally, for monitoring, I use the **Grafana-Prometheus-Loki** stack.
-
-For the frontend, I use **Flutter**, mostly because of the flexibility it provides, but also simply because I enjoy
-using it.
-
-The app is currently available on Android and you can either get it [here](https://www.bentoapp.cloud) or by scanning
-the QR code below.
+The backend was built as a set of **Kotlin**/**Ktor** microservices backed by **PostgreSQL**, deployed on **Kubernetes**
+and exposed via a **GraphQL** API, with observability handled through **Grafana–Prometheus–Loki**.  
+The frontend was developed using **Flutter**.
 
 ![Bento banner](assets/bento-banner.png)
 
