@@ -13,7 +13,7 @@ I work as a senior java developer at Tooploox.
 
 ## Personal stuff highlights
 
-### [Bento](https://bentoapp.cloud)
+### Bento
 
 Bento was a personal side project I previously worked on, focused on building a full-stack nutrition and meal-planning
 application. While it is no longer under active development, it served as a practical exploration of scalable backend
